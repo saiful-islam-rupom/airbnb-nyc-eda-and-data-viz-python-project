@@ -98,12 +98,14 @@ The dataset contains 20,770 entries and 22 features, including:
 15. Private rooms and shared rooms are more common in outer neighbourhood group like Brooklyn and Bronx, likely catering to budget-conscious travelers or long-term stays.
 16. Shared Rooms are one of least popular room type, which aligns with lower demand for shared accommodations may be due to privacy concerns.
 17. Comparative Summary:
+   
 | Room Type       | Spread Across Neighbourhood Groups | Density  | Popularity |
 | --------------- | ---------------------------------- | -------- | ---------- |
 | Entire Home/Apt | Very widespread                    | Highest  | Very High  |
 | Private Room    | Widespread                         | High     | High       |
 | Shared Room     | Limited & scattered                | Low      | Low        |
 | Hotel Room      | Very concentrated                  | Very Low | Niche      |
+
 18. Price is moderately influenced by beds and slightly by location (longitude).
 19. Review activity is a strong indicator of listing popularity but doesn't correlate much with price.
 20. Geographic coordinates have minimal correlation with other listing attributes except for a slight effect on price.
