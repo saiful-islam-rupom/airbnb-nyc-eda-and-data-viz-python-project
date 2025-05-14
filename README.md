@@ -1,4 +1,4 @@
-![Poster](images/apple_image.jpg)
+![Poster](visuals/poster.png)
 # Airbnb NYC EDA & Data Viz Python Project
 
 ## Project Overview
