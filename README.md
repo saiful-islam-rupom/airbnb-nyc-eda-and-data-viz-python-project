@@ -70,7 +70,6 @@ The dataset contains 20,770 entries and 22 features, including:
 - Showing correlations among numerical features using Heatmap.
 
 ## Key Findings & Insights
- ### **(N.B. Visualizations can be found in the `project_report.pdf` or by running the `notebook.ipynb` file using the provided datasets.)**
 1. Outliers in price that has some listings more than $10000 and also a listing of about $100000, indicating the need to filter such extreme values.
 2. Entire home/apt. has got most amount of listings about 55.6%, followed Private room with 42.5% listings. Hotel room & Shared room got least amount of listings respectively 0.5% and 1.4%
 3. Manhattan has the most expensive $208 average listing price, followed by Brooklyn.
@@ -110,6 +109,7 @@ The dataset contains 20,770 entries and 22 features, including:
 18. Price is moderately influenced by beds and slightly by location (longitude).
 19. Review activity is a strong indicator of listing popularity but doesn't correlate much with price.
 20. Geographic coordinates have minimal correlation with other listing attributes except for a slight effect on price.
+### **(N.B. All the visualizations can be found in the `project_report.pdf` or by running the `notebook.ipynb` file using the provided datasets.)**
 
 ## Recommendations
 1. Filter Out Extreme Outliers in Pricing:
